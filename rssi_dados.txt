@@ -1,0 +1,36 @@
+Escaneando redes WiFi...
+Total de redes encontradas: 14
+Rede 1: [WiFi-LIFT1] - RSSI: -47 dBm - Segurança: WPA2
+Rede 2: [DIRECT-pj-52579CC931F9] - RSSI: -51 dBm - Segurança: WPA2
+Rede 3: [eduroam] - RSSI: -66 dBm - Segurança: Desconhecida
+Rede 4: [wifi-zone-ufam-1] - RSSI: -66 dBm - Segurança: Nenhuma
+Rede 5: [WiFi-CGLAB] - RSSI: -78 dBm - Segurança: WPA/WPA2
+Rede 6: [wifi-zone-ufam-1] - RSSI: -79 dBm - Segurança: Nenhuma
+Rede 7: [eduroam] - RSSI: -80 dBm - Segurança: Desconhecida
+Rede 8: [WiFi-LAB1] - RSSI: -80 dBm - Segurança: WPA2
+Rede 9: [wifi-zone-ufam-1] - RSSI: -86 dBm - Segurança: Nenhuma
+Rede 10: [CANTINA NEIDE] - RSSI: -87 dBm - Segurança: WPA/WPA2
+Rede 11: [eduroam] - RSSI: -87 dBm - Segurança: Desconhecida
+Rede 12: [wifi-zone-ufam-1] - RSSI: -87 dBm - Segurança: Nenhuma
+Rede 13: [eduroam] - RSSI: -88 dBm - Segurança: Desconhecida
+Rede 14: [wifi-zone-ufam-1] - RSSI: -92 dBm - Segurança: Nenhuma
+Escaneando redes WiFi...
+Total de redes encontradas: 17
+Rede 1: [WiFi-LIFT1] - RSSI: -49 dBm - Segurança: WPA2
+Rede 2: [DIRECT-pj-52579CC931F9] - RSSI: -50 dBm - Segurança: WPA2
+Rede 3: [wifi-zone-ufam-1] - RSSI: -66 dBm - Segurança: Nenhuma
+Rede 4: [eduroam] - RSSI: -66 dBm - Segurança: Desconhecida
+Rede 5: [WiFi-CGLAB] - RSSI: -79 dBm - Segurança: WPA/WPA2
+Rede 6: [eduroam] - RSSI: -80 dBm - Segurança: Desconhecida
+Rede 7: [wifi-zone-ufam-1] - RSSI: -80 dBm - Segurança: Nenhuma
+Rede 8: [eduroam] - RSSI: -81 dBm - Segurança: Desconhecida
+Rede 9: [wifi-zone-ufam-1] - RSSI: -81 dBm - Segurança: Nenhuma
+Rede 10: [WiFi-LAB1] - RSSI: -85 dBm - Segurança: WPA2
+Rede 11: [eduroam] - RSSI: -85 dBm - Segurança: Desconhecida
+Rede 12: [eduroam] - RSSI: -86 dBm - Segurança: Desconhecida
+Rede 13: [wifi-zone-ufam-1] - RSSI: -86 dBm - Segurança: Nenhuma
+Rede 14: [wifi-zone-ufam-1] - RSSI: -86 dBm - Segurança: Nenhuma
+Rede 15: [wifi-zone-ufam-1] - RSSI: -86 dBm - Segurança: Nenhuma
+Rede 16: [LAB_LME_2G] - RSSI: -87 dBm - Segurança: WPA/WPA2
+Rede 17: [CANTINA NEIDE] - RSSI: -91 dBm - Segurança: WPA/WPA2
+Escaneando redes WiFi...
