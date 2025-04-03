@@ -1,5 +1,8 @@
 # Escaneamento de redes WiFi com ESP32
 
+## Aluno: Antonio Mileysson França Bragança Matricula:21850963
+## Turma: Engenharia da computação
+
 ## Descrição do Projeto
 
 Este projeto consiste em dois componentes que trabalham em conjunto para escanear redes WiFi disponíveis e capturar os dados relacionados. Utilizou-se um ESP32 para identificar redes no ambiente, enquanto um script em Python captura e armazena os dados no computador local.
